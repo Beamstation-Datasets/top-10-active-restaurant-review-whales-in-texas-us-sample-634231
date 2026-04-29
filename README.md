@@ -1,6 +1,6 @@
 # Top 10% Active Restaurant Review Whales in Texas, US
 
-> Free BeamStation sample export with 44 rows and masked direct-contact fields.
+> Free BeamStation sample export with 2 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `634231` |
 | Location | Texas |
 | Category | Restaurants |
-| Full dataset size | 446 records |
-| Free sample size | 44 records (9.87%) |
-| Last export | 2026-04-22T05:06:55.781810+00:00 |
+| Full dataset size | 26 records |
+| Free sample size | 2 records (7.69%) |
+| Last export | 2026-04-29T07:21:23.047545+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-10-active-restaurant-review-whales-in-texas-us-sample-634231/releases/download/sample-latest/beamstation_634231_restaurants-us-tx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
